@@ -80,19 +80,19 @@
             <div class="row">
                <div class="col-md-4">
                   <div class="Our_box" style="background-color:#e1e1bd;">
-                     <i><img src="./Formcss/Images/monuKS.jpeg" alt="#"/></i>
-                     <h4>Name: Monu Kumar Soyal</h4>
-                     <h4>Roll No: 200010029</h4>
-                     <h4>Email Id: 200010029@iitdh.ac.in</h4>
+                     <i><img src="./Formcss/Images/asishG.jpg" alt="#"/></i>
+                     <h4>Name: Gokarakonda Sri Sai Asish</h4>
+                     <h4>Roll No: 200010017</h4>
+                     <h4>Email Id: 200010017@iitdh.ac.in</h4>
                      <h4>Contribution: Designing and things related to CSS.Working on frontend</h4>
                   </div>
                </div>
                <div class="col-md-4">
                   <div class="Our_box" style="background-color:#e1e1bd;">
-                     <i><img src="./Formcss/Images/asishG.jpg" alt="#"/></i>
-                     <h4>Name: Gokarakonda Sri Sai Asish</h4>
-                     <h4>Roll No: 200010017</h4>
-                     <h4>Email Id: 200010017@iitdh.ac.in</h4>
+                     <i><img src="./Formcss/Images/monuKS.jpeg" alt="#"/></i>
+                     <h4>Name: Monu Kumar Soyal</h4>
+                     <h4>Roll No: 200010029</h4>
+                     <h4>Email Id: 200010029@iitdh.ac.in</h4>
                      <h4>Contribution: All things related to mysql,php.Working on backend</h4>
                   </div>
                </div>
